@@ -68,18 +68,23 @@ This robust configuration allows me to perform experiments and research efficien
 
 ## 📚 Featured Projects
 
-### **Chromebook Security Analyzer**
-- A project to automate Chromebook vulnerability testing and provide actionable insights.
-- Includes permission validation, sandbox robustness checks, and more.
+### **Heavy Chromebook experimentation**
+- A personal project to push my enterprise Chromebook to its limits by:
+    - Attempting to change kervner versions (kernel versions) without unenrolling using [KVS](https://github.com/kxtzownsu/KVS/)
+    - Attempting to unenroll my Chromebook via various methods
+    - See how much I can tamper with my Chromebook while using [Shimboot](https://github.com/ading2210/shimboot)
+    - When get permission potentially remove the write protect screw
+- **TL;DR** just experimenting with my Chromebook a lot via various methods
 
-### **Proxy Toolkit**
-- A set of scripts and tools for working with proxies, analyzing performance, and improving security.
+### **PeteZah Docs**
+- Documentation to utilize PeteZah and its services
+- Allows others to make their own website simillar to PeteZah
+- Gives instructions on how to make your own PeteZah website
 
-### **Exploit Simulation Scripts**
-- Safe, educational scripts designed for studying system vulnerabilities in controlled environments.
-
-### **Custom Chromebook Enhancements**
-- Optimizations and tweaks to enhance Chromebook performance and usability, shared as community resources.
+### **General Exploit Research**
+- This is for mainly getting around extensions such as Blocksi and Lightspeed
+- Also to get around certain [Chrome Policys](chrome://policy) and unlock functionality out of your Chromebook
+- Workarounds to obtain full capability out of your locked down Chromebook
 
 ---
 
