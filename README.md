@@ -9,11 +9,11 @@ Welcome to my GitHub profile! I’m a **student with a Chromebook** who enjoys e
 - Testing and customizing system configurations to uncover hidden functionalities and enhance performance.
 
 ### **Proxies and Networking**
-- Passionate about experimenting with **proxies** for anonymization, bypassing restrictions, and understanding network data flows.
-- Exploring real-world use cases and creating tools to optimize proxy setups and analyze their effectiveness.
+- Passionate about experimenting with **proxies** for anonymization and bypassing restrictions.
+- I like optimizing proxies to say run YouTube while being completly static.
 
 ### **Exploit Research**
-- Inspired by cybersecurity, I enjoy **simulating exploits** in controlled environments to understand vulnerabilities and test system defenses.
+- Inspired by cybersecurity, I enjoy **simulating exploits** in controlled environments to understand vulnerabilities and utilize them for myself and the general public.
 - My focus is on responsible and ethical experimentation that improves my knowledge and device security.
 
 ### **Collaboration with PeteZah**
