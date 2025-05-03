@@ -1,6 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0068b3&height=300&section=header&text=Hello%20there&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20Proxy-alt!&descAlignY=51&descAlign=62&fontColor=0095ff)
+<div style="display: flex; justify-content: space-around; align-items: center">
+  <a href= target="_blank"><img src="assets/discord-tile.svg" width="50"></a>
+  <a href="https://steamcommunity.com/id/bluelamborghini" target="_blank"><img src="assets/steampowered-icon.svg" width="50"></a>
+  <a href="https://www.xbox.com/en-US/play/user/BigDaddyAvenger?gamertag=BigDaddyAvenger" target="_blank"><img src="assets/xbox-icon.svg" width="50"></a>
+</div>
 
-
+<br />
 
 # Hi there! 👋 I'm **proxy-alt**
 
