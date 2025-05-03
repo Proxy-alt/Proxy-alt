@@ -1,3 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0068b3&height=300&section=header&text=Hello%20there&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20Proxy-alt!&descAlignY=51&descAlign=62&fontColor=0095ff)
+
+
+
 # Hi there! 👋 I'm **proxy-alt**
 
 Welcome to my GitHub profile! I’m a **student with a Chromebook** who enjoys experimenting with its features and exploring its potential. Inspired by the world of **cybersecurity**, I focus on testing, researching, and uncovering new ways to interact with technology while continuously learning and growing.
