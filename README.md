@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0068b3&height=300&section=header&text=Hello%20there&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20Proxy-alt!&descAlignY=51&descAlign=62&fontColor=0095ff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20there&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20Proxy-alt!&descAlignY=51&descAlign=62&fontColor=0095ff)
+<h1 style="text-align:center; border-bottom: none;">My socials</h1>
 <div style="display: flex; justify-content: space-around; align-items: center">
   <a href= target="_blank"><img src="assets/discord-tile.svg" width="50"></a>
   <a href="https://steamcommunity.com/id/bluelamborghini" target="_blank"><img src="assets/steampowered-icon.svg" width="50"></a>
@@ -7,75 +8,45 @@
 
 <br />
 
-# Hi there! 👋 I'm **proxy-alt**
+# A bit about me
 
-Welcome to my GitHub profile! I’m a **student with a Chromebook** who enjoys experimenting with its features and exploring its potential. Inspired by the world of **cybersecurity**, I focus on testing, researching, and uncovering new ways to interact with technology while continuously learning and growing.
+```yaml
+profile:
+  name: "proxy-alt"
+  greeting: "Hi there! 👋 I'm proxy-alt"
+  introduction: "I'm a kid with a ChromeBook that probably should've been taken away a while ago lol"
 
-## 🛠 Interests and Expertise
+interests:
+  chromebooks:
+    - "Likes trying to unenroll and break Chromebooks"
+    - "School IT probably hates me for the things I've helped my friends do"
+  proxies:
+    - "Used to use proxies to get around annoying school policies"
+    - "Mainly just use templates and maybe contribute to them from time to time"
+  exploit_research:
+    - "Exploiting my ChromeBook and ChromeOS to see what is possible"
+    - ""
 
-### **System Experimentation**
-- Diving into the **Chromebook operating system** to explore its inner workings and push its boundaries.
-- Testing and customizing system configurations to uncover hidden functionalities and enhance performance.
+collaboration:
+  organization: "PeteZah"
+  contributions:
+    - "Making PRs to help them."
+    - "Is admin of Discord Server and friend of PeteZah."
 
-### **Proxies and Networking**
-- Passionate about experimenting with **proxies** for anonymization and bypassing restrictions.
-- I like optimizing proxies to say run YouTube while being completly static.
+chromebook_setup:
+  model: "HP Fortis G11 (14-inch)"
+  motherboard: "Nissa"
+  codename: "Yavijo"
+  firmware: "TI50"
+  description: "Annoyingly hard to get around WP without taking off case or unerolling using just software"
 
-### **Exploit Research**
-- Inspired by cybersecurity, I enjoy **simulating exploits** in controlled environments to understand vulnerabilities and utilize them for myself and the general public.
-- My focus is on responsible and ethical experimentation that improves my knowledge and device security.
+skillset:
+  languages:
+    proficient_in: ["HTML", "CSS", "JavaScript", "Python"]
+    currently_learning: ["Advanced JavaScript", "TypeScript", "Rust"]
+```
 
-### **Collaboration with PeteZah**
-- Currently collaborating with the organization **PeteZah**, contributing to their operations by:
-  - Making **pull requests** to improve their codebase and enhance their workflows.
-  - Offering ideas and solutions to support their ongoing projects and efforts.
-- This collaboration enables me to gain valuable experience while actively contributing to meaningful projects.
-
----
-
-## 💻 My Chromebook Setup
-I use an **HP Fortis G11** Chromebook (14-inch) equipped with:
-- **Motherboard**: Nissa
-- **Codename**: Yavijo
-- **Firmware**: TI50  
-This robust configuration allows me to perform experiments and research efficiently, unlocking new ways to explore technology.
-
----
-
-## 🌟 Skillset
-
-### **Languages**
-- **Proficient in**: HTML, CSS, JavaScript, Python.
-- **Currently learning**: Advanced JavaScript, TypeScript, and Rust, as I expand my expertise in modern development tools and techniques.
-
-### **Tools and Platforms**
-- **Chromebooks**: Expertise with developer mode, Crosh, and Linux on ChromeOS.
-- **Cybersecurity Tools**: Beginner-to-intermediate with Wireshark, Nmap, and Burp Suite.
-- **Networking**: Skilled in proxies, VPNs, and traffic analysis tools.
-- **Version Control**: Experienced in Git for collaborative development and project management.
-
----
-
-## 💡 Current Projects and Focus Areas
-
-### **Chromebook Security Tools**
-- Creating utilities to test and analyze the security of Chromebooks.
-- Developing tools for permission testing, sandbox analysis, and system integrity checks.
-
-### **Proxy Experimentation Framework**
-- Building a comprehensive framework to experiment with proxies, focusing on network performance and bypass techniques.
-
-### **System Exploit Simulations**
-- Writing scripts to simulate known exploits for educational purposes, helping to understand vulnerabilities and defensive strategies.
-
----
-
-## 📈 GitHub Stats
-[![proxy-alt's GitHub stats](https://github-readme-stats.vercel.app/api?username=proxy-alt&show_icons=true&theme=radical)](https://github.com/proxy-alt)
-
----
-
-## 📚 Featured Projects
+## 📚 Projects
 
 ### **Heavy Chromebook experimentation**
 - A personal project to push my enterprise Chromebook to its limits by:
@@ -95,13 +66,25 @@ This robust configuration allows me to perform experiments and research efficien
 - Also to get around certain [Chrome Policys](chrome://policy) and unlock functionality out of your Chromebook
 - Workarounds to obtain full capability out of your locked down Chromebook
 
----
+## Resources used
+<p style="text-align: left"> 
 
-## 🎯 My Mission
-I’m here to explore, learn, and contribute by blending curiosity with creativity. My projects reflect my journey as a student eager to understand and improve technology. Through collaborations like my work with **PeteZah**, I aim to make a meaningful impact while growing as a developer and researcher.
+</p>
 
-Let’s connect and build something amazing together!
+## 📈 GitHub Stats
 
+<div style="text-align:center">
+<a href="https://github.com/proxy-alt">
+    <img src="https://github-readme-stats-jet-ten-26.vercel.app/api?username=proxy-alt&theme=dark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&icons=true" alt="GitHub stats">
+</a>
+<a href="https://github.com/proxy-alt">
+    <img src="https://github-readme-stats-jet-ten-26.vercel.app/api/top-langs/?username=proxy-alt&theme=dark&langs_count=8&layout=donut" alt="GitHub Languages">
+</a>
+</div>
+<a href="https://github.com/proxy-alt/proxy-alt">
+    <img src="assets/github-contribution-grid-snake.svg" alt="Snake animation">
+</a>
+![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer)
 <!---
 Proxy-alt/Proxy-alt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
