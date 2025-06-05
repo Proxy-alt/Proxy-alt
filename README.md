@@ -78,7 +78,7 @@ skillset:
     <img src="https://github-readme-stats-jet-ten-26.vercel.app/api?username=proxy-alt&theme=dark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&icons=true" alt="GitHub stats">
 </a>
 <a href="https://github.com/proxy-alt">
-    <img src="https://github-readme-stats-jet-ten-26.vercel.app/api/top-langs/?username=proxy-alt&theme=dark&langs_count=8&layout=donut" alt="GitHub Languages">
+    <img src="https://github-readme-stats-jet-ten-26.vercel.app/api/top-langs/?username=proxy-alt&theme=dark&langs_count=8&layout=compact" alt="GitHub Languages">
 </a>
 </div>
 <a href="https://github.com/proxy-alt/proxy-alt">
