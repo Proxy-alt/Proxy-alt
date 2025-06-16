@@ -25,7 +25,6 @@ interests:
     - "Mainly just use templates and maybe contribute to them from time to time"
   exploit_research:
     - "Exploiting my ChromeBook and ChromeOS to see what is possible"
-    - ""
 
 collaboration:
   organization: "PeteZah"
@@ -81,10 +80,14 @@ skillset:
     <img src="https://readme.adidasnmdcitysock.com/api/top-langs/?username=proxy-alt&theme=dark&langs_count=8&layout=compact" alt="GitHub Languages">
 </a>
 </div>
-<a href="https://github.com/proxy-alt/proxy-alt">
-    <img src="assets/github-contribution-grid-snake.svg" alt="Snake animation">
-</a>
-![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer)
+<picture>
+  <source srcset="dist/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
+  <source srcset="dist/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light)">
+  <img alt="GitHub Contribution Snake" src="dist/github-contribution-grid-snake.svg">
+</picture>
+<div style="margin-top: 50px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" alt="Footer" style="width: 100%; height: auto;">
+</div>
 <!---
 Proxy-alt/Proxy-alt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
