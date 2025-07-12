@@ -37,7 +37,7 @@ chromebook_setup:
   motherboard: "Nissa"
   codename: "Yavijo"
   firmware: "TI50"
-  description: "Annoyingly hard to get around WP without taking off case or unerolling using just software"
+  description: "Annoyingly hard to get around WP without taking off case or unenrolling using just software"
 
 skillset:
   languages:
