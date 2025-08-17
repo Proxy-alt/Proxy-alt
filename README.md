@@ -1,10 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20there&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20Proxy-alt!&descAlignY=51&descAlign=62&fontColor=0095ff)
-<h1 style="text-align:center; border-bottom: none;">My socials</h1>
-<div style="display: flex; justify-content: space-around; align-items: center">
-  <a href="https://discordapp.com/users/1262451999539200025" target="_blank"><img src="assets/discord-tile.svg" width="50"></a>
-  <a href="https://steamcommunity.com/id/bluelamborghini" target="_blank"><img src="assets/steampowered-icon.svg" width="50"></a>
-  <a href="https://www.xbox.com/en-US/play/user/BigDaddyAvenger?gamertag=BigDaddyAvenger" target="_blank"><img src="assets/xbox-icon.svg" width="50"></a>
-</div>
 
 ## 📈 GitHub Stats
 
